@@ -1,4 +1,4 @@
-package ejemplos01;
+package ejemplos1;
 
 public class TablaColores {
 	public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package ejemplos01;
+package ejemplos1;
 
 public class SalidaFormateada2 {
 	public static void main(String[] args) {
