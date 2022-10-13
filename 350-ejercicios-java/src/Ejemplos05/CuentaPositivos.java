@@ -1,8 +1,10 @@
 package Ejemplos05;
 
+import java.util.Scanner;
 //bucle while que termina cuando se introduce un teclado de numero neg.
 
 public class CuentaPositivos {
+	
 	public static void main(String[] args) {
 		System.out.println("Por favor, vaya introduciendo números y pulsando INTRO.");
 		System.out.println("Para terminar, introduzca un número negativo.");
